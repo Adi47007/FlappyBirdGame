@@ -3,19 +3,19 @@ Flappy Bird Game 🎮
 -A simple Flappy Bird clone built using Unity and C#. This game challenges players to guide a bird through obstacles without crashing.
 
 
-🖥️ Gameplay
+# 🖥️ Gameplay
 -Tap or press the spacebar to make the bird jump.
 -Avoid obstacles and score points.
 -The game gets progressively harder as you play!
 
 
-📁 Project Structure
+# 📁 Project Structure
 -Assets/ - Game assets like sprites, sounds, and scripts.
 -ProjectSettings/ - Unity project settings.
 -Build/ - The final compiled game (Windows .exe version).
 
 
-🚀 How to Run
+# 🚀 How to Run
 
 ->Option 1: Play the Built Version
 -Download the latest release from Releases.
@@ -29,7 +29,7 @@ Flappy Bird Game 🎮
 -Press Play inside the Unity Editor.
 
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 -Unity - Game Engine
 -C# - Programming Language
 -Physics Engine - Rigidbody2D for realistic movement
