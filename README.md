@@ -30,7 +30,7 @@ Physics Engine - Rigidbody2D for realistic movement
 
 ![image](https://github.com/user-attachments/assets/26dc369d-acbe-4f0b-9ad6-c2e28973e4d9)
 
-![image](https://github.com/user-attachments/assets/8a915c9b-9d3b-4f9c-a555-dba8f68e8d26)
+![image](https://github.com/user-attachments/assets/e0664ab3-ff89-4558-af57-f25031a2555b)
 
 ![image](https://github.com/user-attachments/assets/45766f4d-bfa2-4089-b02e-981bf348d9ff)
 
