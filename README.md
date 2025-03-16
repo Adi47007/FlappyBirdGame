@@ -16,10 +16,12 @@ Flappy Bird Game 🎮
 
 
 🚀 How to Run
+
 ->Option 1: Play the Built Version
 -Download the latest release from Releases.
 -Extract the ZIP file.
 -Open the folder and run Flappy Bird.exe.
+
 ->Option 2: Run in Unity
 -Clone the repository:
    git clone https://github.com/Adi47007/FlappyBirdGame.git
