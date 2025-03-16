@@ -8,10 +8,13 @@ Flappy Bird Game 🎮
 -Avoid obstacles and score points.
 -The game gets progressively harder as you play!
 
+
 📁 Project Structure
 -Assets/ - Game assets like sprites, sounds, and scripts.
 -ProjectSettings/ - Unity project settings.
 -Build/ - The final compiled game (Windows .exe version).
+
+
 🚀 How to Run
 ->Option 1: Play the Built Version
 -Download the latest release from Releases.
@@ -23,10 +26,12 @@ Flappy Bird Game 🎮
 -Open Unity and load the project.
 -Press Play inside the Unity Editor.
 
+
 🛠️ Technologies Used
 -Unity - Game Engine
 -C# - Programming Language
 -Physics Engine - Rigidbody2D for realistic movement
+
 
 ![image](https://github.com/user-attachments/assets/26dc369d-acbe-4f0b-9ad6-c2e28973e4d9)
 
