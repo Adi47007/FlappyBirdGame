@@ -1,0 +1,12 @@
+# Ignore auto-generated Unity files
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
+.vs/
+Builds/
+*.unitypackage
+*.exe
+*.apk
+.DS_Store
